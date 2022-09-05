@@ -1,5 +1,5 @@
 name: dlox
-description: A sample command-line application.
+description: My implementation of Lox, from https://craftinginterpreters.com
 version: 1.0.0
 # homepage: https://www.example.com
 

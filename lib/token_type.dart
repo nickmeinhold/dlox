@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names
+
 enum TokenType {
   // Single-character tokens.
   LEFT_PAREN,

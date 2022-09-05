@@ -1,5 +1,3 @@
-// TODO: https://craftinginterpreters.com/scanning.html#recognizing-lexemes
-
 import 'dart:io';
 
 import 'package:dlox/lox.dart';
